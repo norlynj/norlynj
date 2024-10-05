@@ -14,8 +14,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a graduating student taking BS in Computer Science at the University of the Philippines 🌻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
+- 🎓: Computer Science, University of the Philippines 🌻
 - :seedling: Exploring and learning...things.
 
 - :zap: In my free time, I watch movies and code.
